@@ -1,0 +1,1 @@
+python rect2segment.py input.xml output.xml
